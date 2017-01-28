@@ -1,0 +1,19 @@
+{
+  "name": "demos",
+  "version": "0.0.1",
+  "description": "\"this is just a demo\"",
+  "main": "api.js",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "express": "4.13.4",
+    "request": "^2.69.0"
+  },
+  "devDependencies": {
+    "request": "2.69.0"
+  },
+  "scripts": {
+    "test": "api.js"
+  },
+  "author": "Caitlin Haaf",
+  "license": "ISC"
+}
